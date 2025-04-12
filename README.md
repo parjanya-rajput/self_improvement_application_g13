@@ -1,4 +1,4 @@
-# ARISE Course Project
+# Self Improvement Application (Arise) IE-418 Course Project
 
 Figma Link: https://www.figma.com/design/VfbbKT9JdTfIIRjMFKW3Qe/Arise-UI-design?node-id=169-3876&t=PH8uyRfb8wBcIqD6-1
 
